@@ -77,7 +77,7 @@
       }
     }
   ],
-  "Preview": "Farmland.png",
+  "Preview": "farmland.png",
   "RevealMap": false,
   "VictoryConditions": [
     "conquest"
