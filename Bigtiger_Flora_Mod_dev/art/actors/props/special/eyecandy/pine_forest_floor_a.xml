@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+
+  <castshadow/>
+  
+  <group>
+    <variant frequency="1" name="floor_a">
+      <mesh>gaia/pine_forest_floor_b.dae</mesh>
+      <textures>
+	    <texture file="gaia/Pine_Forest_Floor_a.png" name="baseTex"/>	
+	  </textures>
+    </variant>	
+  </group>
+  
+  <material>basic_trans.xml</material>
+  
+</actor>

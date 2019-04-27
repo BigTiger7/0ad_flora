@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant frequency="1" name="tree_1">
+      <mesh>gaia/dead_deciduous_01.dae</mesh>
+      <textures>
+	    <texture file="gaia/dead_tree_no_bark_01.png" name="baseTex"/>		
+	  </textures>
+    </variant>
+  </group>
+  
+  <material>basic_trans_wind.xml</material>
+  
+</actor>

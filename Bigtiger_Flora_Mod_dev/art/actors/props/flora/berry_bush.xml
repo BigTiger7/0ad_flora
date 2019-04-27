@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="berry_a">
+      <mesh>gaia/berrybush.dae</mesh>
+      <props>
+        <prop actor="particle/sparks_blacksmith.xml" attachpoint="root"/>
+      </props>	  
+      <textures>
+	    <texture file="gaia/berry_bushes.png" name="baseTex"/>
+	  </textures>
+    </variant>
+    <variant frequency="1" name="berry_b">
+      <mesh>gaia/berrybush_b.dae</mesh>
+      <props>
+        <prop actor="particle/sparks_blacksmith.xml" attachpoint="root"/>
+      </props>	  
+      <textures>
+	    <texture file="gaia/berry_bushes.png" name="baseTex"/>
+	  </textures>
+    </variant>
+    <variant frequency="1" name="berry_c">
+      <mesh>gaia/berrybush.dae</mesh>
+      <props>
+        <prop actor="particle/sparks_blacksmith.xml" attachpoint="root"/>
+      </props>	  
+      <textures>
+	    <texture file="gaia/berry_bushes_b.png" name="baseTex"/>
+	  </textures>
+    </variant>
+    <variant frequency="1" name="berry_d">
+      <mesh>gaia/berrybush_b.dae</mesh>
+      <props>
+        <prop actor="particle/sparks_blacksmith.xml" attachpoint="root"/>
+      </props>	  
+      <textures>
+	    <texture file="gaia/berry_bushes_b.png" name="baseTex"/>
+	  </textures>
+    </variant>	
+  </group>
+  <material>basic_trans.xml</material>
+</actor>
