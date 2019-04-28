@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant name="Base">
+      <textures>
+        <texture file="gaia/fern_lush_a.png" name="baseTex"/>     
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant name="Fern A">
+      <mesh>gaia/eyecandy_fern_lush_a.dae</mesh>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>
