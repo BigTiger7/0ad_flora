@@ -5,19 +5,19 @@
 
   <group>
     <variant frequency="1" name="tree_pine_tall_1">
-      <mesh>gaia/pine_Tree_Tall_1.dae</mesh>
+      <mesh>gaia/pine_tree_tall_1.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="1" name="tree_pine_tall_2">
-      <mesh>gaia/pine_Tree_Tall_2.dae</mesh>
+      <mesh>gaia/pine_tree_tall_2.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_3">
-      <mesh>gaia/pine_Tree_Tall_3.dae</mesh>
+      <mesh>gaia/pine_tree_tall_3.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
@@ -29,67 +29,67 @@
 	  </textures>	  
 	</variant>
 	<variant frequency="2" name="tree_pine_small_5">
-      <mesh>gaia/pine_Tree_Small_4.dae</mesh>
+      <mesh>gaia/pine_tree_small_4.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_6">
-      <mesh>gaia/pine_Tree_Tall_4.dae</mesh>
+      <mesh>gaia/pine_tree_tall_4.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_7">
-      <mesh>gaia/pine_Tree_Tall_5.dae</mesh>
+      <mesh>gaia/pine_tree_tall_5.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_8">
-      <mesh>gaia/pine_Tree_Tall_6.dae</mesh>
+      <mesh>gaia/pine_tree_tall_6.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>	
 	<variant frequency="2" name="tree_pine_small_9">
-      <mesh>gaia/pine_Tree_Small_5.dae</mesh>
+      <mesh>gaia/pine_tree_tmall_5.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_tall_10">
-      <mesh>gaia/pine_Tree_Tall_5.dae</mesh>
+      <mesh>gaia/pine_tree_tall_5.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_4.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_11">
-      <mesh>gaia/pine_Tree_Small_5.dae</mesh>
+      <mesh>gaia/pine_tree_small_5.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_4.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_12">
-      <mesh>gaia/pine_Tree_Tall_6.dae</mesh>
+      <mesh>gaia/pine_tree_tall_6.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_4.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_13">
-      <mesh>gaia/pine_Tree_Tall_4.dae</mesh>
+      <mesh>gaia/pine_tree_tall_4.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_4.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_14">
-      <mesh>gaia/pine_Tree_Tall_7.dae</mesh>
+      <mesh>gaia/pine_tree_tall_7.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
     </variant>
 	<variant frequency="2" name="tree_pine_small_15">
-      <mesh>gaia/pine_Tree_Tall_7.dae</mesh>
+      <mesh>gaia/pine_tree_tall_7.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_4.png" name="baseTex"/>		
 	  </textures>	  
