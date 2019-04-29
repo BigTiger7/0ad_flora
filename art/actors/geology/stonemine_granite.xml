@@ -29,7 +29,5 @@
       <textures><texture file="gaia/temp_stone_b.png" name="baseTex"/></textures>
     </variant>	
   </group>
-  
-   <material>basic.xml</material>
-   
+   <material>basic_trans.xml</material>     
 </actor>
