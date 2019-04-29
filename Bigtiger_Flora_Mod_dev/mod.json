@@ -4,5 +4,5 @@
 	"label": "Flora pack",
 	"url": "play0ad.com",
 	"description": "A flora mod that changes the foilage.",
-	"dependencies": ["0ad=0.0.23"]
+	"dependencies": ["0ad>=0.0.23"]
 }
