@@ -53,7 +53,7 @@
 	  </textures>	  
     </variant>	
 	<variant frequency="2" name="tree_pine_small_9">
-      <mesh>gaia/pine_tree_tmall_5.dae</mesh>
+      <mesh>gaia/pine_tree_small_5.dae</mesh>
       <textures>
 	    <texture file="gaia/tree_pine_tall_3.png" name="baseTex"/>		
 	  </textures>	  
