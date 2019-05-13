@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="1" name="kapok_tree_a">
       <mesh>gaia/kapok_tree_a.dae</mesh>
@@ -52,8 +50,6 @@
 	    <texture file="gaia/tropic_deciduous_06.png" name="baseTex"/>		
 	  </textures>
     </variant>	
-  </group>
-  
-  <material>basic_trans_wind.xml</material>
-  
+  </group>  
+  <material>basic_trans_wind.xml</material>  
 </actor>

@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="1" name="tree_1">
       <mesh>gaia/euro_birch_01.dae</mesh>
@@ -85,8 +83,6 @@
 	    <texture file="gaia/birch_tree_02.png" name="baseTex"/>		
 	  </textures>
     </variant>	
-  </group>
-  
-  <material>basic_trans_wind.xml</material>
-  
+  </group> 
+  <material>basic_trans_wind.xml</material>  
 </actor>

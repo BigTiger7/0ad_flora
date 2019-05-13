@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="2" name="tree_trunk_1">
       <mesh>gaia/dead_deciduous.dae</mesh>
@@ -100,8 +98,6 @@
 	    <texture file="gaia/prop_eyecandy_nature.png" name="baseTex"/>		
 	  </textures>
     </variant>	
-  </group>
-  
-  <material>basic_trans.xml</material>
-  
+  </group>  
+  <material>basic_trans.xml</material>  
 </actor>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="1" name="formation-a">
       <mesh>gaia/large_stone_a.dae</mesh>
@@ -13,8 +11,6 @@
 		<texture file="gaia/ao/large_stone_rock_a_ao.png" name="aoTex"/>
 	  </textures>
     </variant>	
-  </group>
-  
-  <material>basic_trans_ao_parallax_spec.xml</material>
-  
+  </group>  
+  <material>basic_trans_ao_parallax_spec.xml</material>  
 </actor>

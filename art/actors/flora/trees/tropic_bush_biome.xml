@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="1" name="fern_a">
       <mesh>gaia/fern_tropical_a.dae</mesh>
@@ -52,8 +50,6 @@
 	    <texture file="gaia/fern_e.png" name="baseTex"/>		
 	  </textures>
     </variant>	
-  </group>
-  
-  <material>basic_trans.xml</material>
-  
+  </group>  
+  <material>basic_trans.xml</material>  
 </actor>

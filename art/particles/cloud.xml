@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <particles>
     <texture>art/textures/particles/cloud_1_512.png</texture>
     <blend mode="over"/>

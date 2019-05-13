@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <actor version="1">
-
   <castshadow/>
-
   <group>
     <variant frequency="1" name="tree_pine_tall_1">
       <mesh>gaia/pine_tree_tall_1.dae</mesh>
@@ -94,8 +92,6 @@
 	    <texture file="gaia/tree_pine_tall_4.png" name="baseTex"/>		
 	  </textures>	  
     </variant>		
-  </group>
-  
-  <material>basic_trans_wind.xml</material>
-  
+  </group>  
+  <material>basic_trans_wind.xml</material>  
 </actor>
