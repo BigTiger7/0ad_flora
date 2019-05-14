@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_flora_tree">
   <Identity>
-    <SpecificName>Tall Pine Tree</SpecificName>
+    <SpecificName>Fir Tree</SpecificName>
   </Identity>
   <ResourceSupply>
     <Amount>200</Amount>
   </ResourceSupply>
   <VisualActor>
-    <Actor>flora/trees/pine_tree_tall_1.xml</Actor>
+    <Actor>flora/trees/fir_tree_winter.xml</Actor>
   </VisualActor>
 </Entity>
