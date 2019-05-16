@@ -2,24 +2,24 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="2" name="maple_1">
+    <variant frequency="1" name="maple_1">
       <mesh>gaia/maple_a.dae</mesh>
       <props>
         <prop actor="props/special/eyecandy/ground_tree_decal_01.xml" attachpoint="root"/>
-      </props>	  
+      </props>
       <textures>
-	    <texture file="gaia/maple_tree_a.png" name="baseTex"/>		
-	  </textures>
+        <texture file="gaia/maple_tree_a.png" name="baseTex"/>
+      </textures>
     </variant>
-    <variant frequency="2" name="maple_2">
+    <variant frequency="1" name="maple_2">
       <mesh>gaia/maple_b.dae</mesh>
       <props>
         <prop actor="props/special/eyecandy/ground_tree_decal_01.xml" attachpoint="root"/>
-      </props>	  
+      </props>
       <textures>
-	    <texture file="gaia/maple_tree_a.png" name="baseTex"/>		
-	  </textures>
-    </variant>	
-  </group> 
-  <material>basic_trans.xml</material> 
+        <texture file="gaia/maple_tree_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
 </actor>
