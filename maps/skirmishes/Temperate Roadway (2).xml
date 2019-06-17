@@ -3,15 +3,15 @@
 <Scenario version="6">
 	<Environment>
 		<SkySet>sunny 1</SkySet>
-		<SunColor r="0.65098" g="0.701961" b="0.733333"/>
+		<SunColor r="0.647059" g="0.701961" b="0.729412"/>
 		<SunElevation angle="0.699495"/>
 		<SunRotation angle="-0.785396"/>
-		<TerrainAmbientColor r="0.576471" g="0.576471" b="0.576471"/>
-		<UnitsAmbientColor r="0.486275" g="0.486275" b="0.486275"/>
+		<TerrainAmbientColor r="0.576471" g="0.529412" b="0.443137"/>
+		<UnitsAmbientColor r="0.458824" g="0.458824" b="0.458824"/>
 		<Fog>
 			<FogFactor>0.00120117</FogFactor>
 			<FogThickness>0</FogThickness>
-			<FogColor r="0.47451" g="0.54902" b="0.607843"/>
+			<FogColor r="0.47451" g="0.54902" b="0.603922"/>
 		</Fog>
 		<Water>
 			<WaterBody>
@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="643.249" y="284.865" z="629.444"/>
-		<Rotation angle="-2.59827"/>
-		<Declination angle="0.604504"/>
+		<Position x="677.4" y="267.224" z="620.786"/>
+		<Rotation angle="-2.56086"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -46,6 +46,7 @@
   "LockTeams": false,
   "Name": "Temperate Roadway (2)",
   "PlayerData": [
+    null,
     {
       "Civ": "athen",
       "StartingCamera": {
